@@ -1,0 +1,8 @@
+calculator-app/
+├── src/
+│   ├── components/    # React components
+│   ├── logic/         # Calculator engine
+│   ├── styles/        # CSS/SASS files
+│   └── App.js         # Main application
+├── public/            # Static assets
+└── package.json       # Project configuration
